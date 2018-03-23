@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+    <string name="myAge">My Age</string>
+    <string name="myName">My Name</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="display">Display</string>
+    <string name="information">You Will get Information here</string>
+    <string name="myAddress">Address</string>
+    <string name="join">Join</string>
+</resources>
